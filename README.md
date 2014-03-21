@@ -9,8 +9,7 @@ determine the impact of memory exhaustion in break/fix tests.
 Build
 -----
 
- ./configure
- make
+    make
 
 Acknowledgements
 ----------------

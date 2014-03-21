@@ -1,8 +1,0 @@
-.PHONY all:
-
-clean:
-	@test -f fill_mem && rm fill_mem
-
-all:
-	cc -std=c99 fill_mem.c -o fill_mem
-
